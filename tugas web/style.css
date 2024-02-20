@@ -1,0 +1,40 @@
+.Navbar{
+	background-color: grey;
+	width: 360px;
+	border-radius: 20%;
+}
+div > a {
+	font-size: 20px;
+	padding: 15px;
+}
+.brand{
+	background-color: grey;
+	width: 100%;
+	padding-left: 20;
+	flex-direction: row;
+	text-align: left;
+	display: flex;
+	padding: 10px;
+}
+.firsname {
+	color: white;
+	margin-left: ;
+	font-weight: 800;
+	padding-left: 30px;
+}
+.lastname {
+	color: white;
+	margin-right:80% ;
+	font-weight:800 ;
+	padding-left:5px;
+}
+marquee {
+	font-size: 30px;
+	color: red;
+}
+marquee {
+	color: white;
+}
+p > img {
+	border-radius: 50%;
+}
